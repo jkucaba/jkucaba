@@ -5,7 +5,7 @@
 
 ### About Me:
 - 🌱 I'm constantly learning and exploring new concepts, languages, and technologies.
-- 💻 My main areas of expertise include Java, Kotlin, and C++.
+- 💻 My main areas of expertise include Java + SpringBoot, Kotlin, and C++.
 - 🚀 I enjoy tackling challenging problems and turning them into elegant solutions.
 - 🔭 Currently, I'm working on various personal projects to enhance my skills and expand my knowledge.
 
