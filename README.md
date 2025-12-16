@@ -1,10 +1,17 @@
-# Passionate Programmer 🚀
+# Passionate Software Engineer 🚀
 ## Welcome to my GitHub profile! 👋
 
-### I'm Jakub and I'm Computer Science graduate from Cracow University of technology. I love diving deep into the world of software development. My journey began with a burning curiosity and an insatiable desire to create, innovate, and solve problems. Programming allows me to bring ideas to life and make a positive impact through technology.
+I'm Jakub, a **Junior Software Engineer** at Grid Dynamics and a Computer Science graduate from Cracow University of Technology. My journey is driven by a desire to create elegant backend solutions and solve complex problems.
 
-### About Me:
-- 🌱 I'm constantly learning and exploring new concepts, languages, and technologies. Right now I'm learning React and work on developing and improving my Engineering Project - JobSnapper https://jk0-7.gitbook.io/jk-docs.
-- 💻 My main areas of expertise include Java, SpringBoot, Kotlin, and C++.
-- 🚀 I enjoy tackling challenging problems and turning them into elegant solutions.
-- 🔭 Currently, I'm working on various personal projects to enhance my skills and expand my knowledge.
+Currently, I am combining my engineering skills with advanced analytics as a **Data Science Master's student**.
+
+### 👨‍💻 About Me:
+- 💼 **Professional Experience:** I have experience working with **Java, Spring Boot, and Microservices** in commercial environments, including an internship and my current role at Grid Dynamics.
+- 🌱 **Learning:** Currently exploring the world of **Data Science** and **Machine Learning**.
+- ☁️ **Cloud:** I hold a **Google Cloud Digital Leader** certificate.
+- 🚀 **Projects:** Continuously improving **JobSnapper**, a platform for odd jobs built with Java & Kotlin, and other projects.
+
+### 🛠 Languages & Tools:
+`Java` `Spring Boot` `Kotlin` `Python` `Docker` `PostgreSQL` `Google Cloud`
+
+Note: Check out my [JobSnapper Documentation](https://jk0-7.gitbook.io/jk-docs)!
